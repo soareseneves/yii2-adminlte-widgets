@@ -1,5 +1,5 @@
 <?php
-namespace hail812\adminlte\widgets;
+namespace soareseneves\adminlte\widgets;
 
 use yii\helpers\ArrayHelper;
 use yii\helpers\Html;
@@ -7,7 +7,7 @@ use yii\helpers\Url;
 
 /**
  * Class Menu
- * @package hail812\adminlte\widgets
+ * @package soareseneves\adminlte\widgets
  *
  * For example,
  *

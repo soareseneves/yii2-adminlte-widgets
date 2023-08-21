@@ -1,12 +1,12 @@
 <?php
 
-namespace hail812\adminlte\widgets;
+namespace soareseneves\adminlte\widgets;
 
 use yii\helpers\Html;
 
 /**
  * Class InfoBox
- * @package hail812\adminlte\widgets
+ * @package soareseneves\adminlte\widgets
  */
 /*
     InfoBox::widget([

@@ -1,6 +1,6 @@
 <?php
 
-namespace hail812\adminlte\widgets;
+namespace soareseneves\adminlte\widgets;
 
 trait WidgetTrait
 {
