@@ -1,7 +1,7 @@
 <?php
 namespace soareseneves\adminlte\widgets;
 
-use yii\bootstrap4\Widget;
+use yii\bootstrap5\Widget;
 
 /**
  * Class FlashAlert
