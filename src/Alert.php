@@ -2,7 +2,7 @@
 namespace soareseneves\adminlte\widgets;
 
 use yii\base\ErrorException;
-use yii\bootstrap4\Widget;
+use yii\bootstrap5\Widget;
 
 /**
  * Class Alert
